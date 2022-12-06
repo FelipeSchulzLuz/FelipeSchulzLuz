@@ -10,15 +10,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Frontend    Basico  HTML5 e CSS3 parte 1: a primeira página da Web 
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-html5-css3-primeiros-passos
  
 # Frontend    Basico  HTML5 e CSS3 parte 2: posicionamento, listas e navegação   
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-html5-css3-posicionamento-listas-navegacao
  
 # Frontend    Basico  HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-html5-css3-formularios-tabelas
  
 # Frontend    Basico  HTML5 e CSS3 parte 4: avançando no CSS 
@@ -26,59 +26,59 @@ https://www.alura.com.br/curso-online-html5-css3-formularios-tabelas
 https://www.alura.com.br/curso-online-html5-css3-avancando-css
  
 # Frontend    Basico  CSS: dispondo elementos com Flexbox e Grid 
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-css-dispondo-elementos-flexbox-grid
  
 # Frontend    Basico  CSS Grid: simplificando layouts
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-css-grid-layout
  
 # Frontend    Basico  Guia de estilos: montando páginas com componentes  
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-guia-estilos-paginas-componentes
  
 # Frontend    Basico  Flexbox: posicione elementos na tela   
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-posicione-elementos-com-flexbox
  
 # Frontend    OO  JavaScript: programando a Orientação a Objetos 
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-javascritpt-orientacao-objetos
  
 # Frontend    OO  JavaScript: primeiros passos com a linguagem   
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-javascript-introducao
  
 # Frontend    OO  JavaScript: programando na linguagem da web
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web
  
 # Frontend    OO  JavaScript: interfaces e Herança em Orientação a Objetos   
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-javascript-polimorfismo
  
 # Frontend    React   Fundamentos de React: escrevendo com Typescript
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-react-modernizando-escrever-typescript
  
 # Frontend    React   React: abstraindo seu CSS com Styled Components
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-react-styled-components
  
 # Frontend    React   React: automatizando os testes em aplicações front-end 
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-react-automatizando-testes
  
 # Frontend    React   React Router: navegação em uma SPA 
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-react-router-navegacao-spa
  
 # Frontend    React   React: gerenciamento de estados globais com ContextAPI 
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-react-context-estados-globais-contextapi
  
 # Frontend    React   Fundamentos de React: escrevendo com Typescript
-- [ ]
+- [x]
 https://www.alura.com.br/curso-online-react-modernizando-escrever-typescript
  
 # Frontend    Angular Angular: começando com o framework 
