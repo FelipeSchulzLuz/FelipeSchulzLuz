@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @FelipeSchulzLuz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FelipeSchulzLuz/FelipeSchulzLuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://user-images.githubusercontent.com/36828158/214418152-3c0f1ebf-2293-41f3-837a-d3ca97f0396d.png)
 
 # Frontend    Basico  HTML5 e CSS3 parte 1: a primeira página da Web 
 - [x]
