@@ -127,7 +127,7 @@ https://www.alura.com.br/curso-online-angular-avancando-testes-automatizados
 
 __________
 
-## Courses for add more knowedge in DevOps (I worked in the devops field for at least 10 years of my career, but I want to update myself)
+## Courses for add more knowedge in DevOps (I worked in infrastructure, network and security field for at least 5 years of my career, but I want to update myself)
  
 ### Frontend    Automação e Performance Performance Web I: otimizando o front-end  
 - [x]
