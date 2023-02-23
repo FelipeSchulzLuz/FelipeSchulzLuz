@@ -1,3 +1,5 @@
+#### currently I'm working and studying and I haven't paid due attention to personal github.
+
 ![image](https://user-images.githubusercontent.com/36828158/214418152-3c0f1ebf-2293-41f3-837a-d3ca97f0396d.png)
 
 ## Basics
