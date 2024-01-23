@@ -1,188 +1,90 @@
-#### currently I'm working and studying and I haven't paid due attention to personal github.
+## Felipe Schulz da Luz
 
-![image](https://user-images.githubusercontent.com/36828158/214418152-3c0f1ebf-2293-41f3-837a-d3ca97f0396d.png)
+**Senior Web Developer specialized in React and Typescript.**
 
-## Basics
+Porto Alegre, RS, Brazil
 
-#### Frontend    Basico  HTML5 e CSS3 parte 1: a primeira página da Web 
-- [x]
-https://www.alura.com.br/curso-online-html5-css3-primeiros-passos
- 
-#### Frontend    Basico  HTML5 e CSS3 parte 2: posicionamento, listas e navegação   
-- [x]
-https://www.alura.com.br/curso-online-html5-css3-posicionamento-listas-navegacao
- 
-#### Frontend    Basico  HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-- [x]
-https://www.alura.com.br/curso-online-html5-css3-formularios-tabelas
- 
-#### Frontend    Basico  HTML5 e CSS3 parte 4: avançando no CSS 
-- [x]
-https://www.alura.com.br/curso-online-html5-css3-avancando-css
- 
-#### Frontend    Basico  CSS: dispondo elementos com Flexbox e Grid 
-- [x]
-https://www.alura.com.br/curso-online-css-dispondo-elementos-flexbox-grid
- 
-#### Frontend    Basico  CSS Grid: simplificando layouts
-- [x]
-https://www.alura.com.br/curso-online-css-grid-layout
- 
-#### Frontend    Basico  Guia de estilos: montando páginas com componentes  
-- [x]
-https://www.alura.com.br/curso-online-guia-estilos-paginas-componentes
- 
-#### Frontend    Basico  Flexbox: posicione elementos na tela   
-- [x]
-https://www.alura.com.br/curso-online-posicione-elementos-com-flexbox
- 
-#### Frontend    OO  JavaScript: programando a Orientação a Objetos 
-- [x]
-https://www.alura.com.br/curso-online-javascritpt-orientacao-objetos
- 
-#### Frontend    OO  JavaScript: primeiros passos com a linguagem   
-- [x]
-https://www.alura.com.br/curso-online-javascript-introducao
- 
-#### Frontend    OO  JavaScript: programando na linguagem da web
-- [x]
-https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web
- 
-#### Frontend    OO  JavaScript: interfaces e Herança em Orientação a Objetos   
-- [x]
-https://www.alura.com.br/curso-online-javascript-polimorfismo
+(51) 9.8022-4482 | felipe.schulz@hotmail.com
 
-________
+Linkedin: https://linkedin.com/in/felipe-schulz
 
-## React skills
- 
-#### Frontend    React   Fundamentos de React: escrevendo com Typescript
-- [x]
-https://www.alura.com.br/curso-online-react-modernizando-escrever-typescript
- 
-#### Frontend    React   React: abstraindo seu CSS com Styled Components
-- [x]
-https://www.alura.com.br/curso-online-react-styled-components
- 
-#### Frontend    React   React: automatizando os testes em aplicações front-end 
-- [x]
-https://www.alura.com.br/curso-online-react-automatizando-testes
- 
-#### Frontend    React   React Router: navegação em uma SPA 
-- [x]
-https://www.alura.com.br/curso-online-react-router-navegacao-spa
- 
-#### Frontend    React   React: gerenciamento de estados globais com ContextAPI 
-- [x]
-https://www.alura.com.br/curso-online-react-context-estados-globais-contextapi
- 
-#### Frontend    React   Fundamentos de React: escrevendo com Typescript
-- [x]
-https://www.alura.com.br/curso-online-react-modernizando-escrever-typescript
+### Professional Summary
 
+I am a Front-end developer with a strong and diverse background in large-scale projects. My
+experience is characterized by close collaboration with multidisciplinary teams and business
+units, where effective communication and the use of agile methodologies are essential for
+delivering high-quality solutions. I am firmly committed to the continuous development of my
+technical and professional skills, prioritizing continuous learning and knowledge sharing with
+my colleagues.
 
-## Courses for a future knowedge in Angular
- 
-#### Frontend    Angular Angular: começando com o framework 
-- [ ]
-https://www.alura.com.br/curso-online-angular-comecando-framework
- 
-#### Frontend    Angular Angular parte 1: fundamentos   
-- [ ]
-https://www.alura.com.br/curso-online-angular-fundamentos
- 
-#### Frontend    Angular Angular parte 2: Autenticação, Forms e lazy loading
-- [ ]
-https://www.alura.com.br/curso-online-angular-autenticacao
- 
-#### Frontend    Angular Angular parte 3: upload, build e novos componentes 
-- [ ]
-https://www.alura.com.br/curso-online-angular-upload-build
- 
-#### Frontend    Angular Angular parte 4: lapidando o projeto   
-- [ ]
-https://www.alura.com.br/curso-online-angular-lapidando-projeto
- 
-#### Frontend    Angular Protractor: testando sua aplicação de ponta a ponta
-- [ ]
-https://www.alura.com.br/curso-online-protractor-testando-aplicacao-ponta-ponta
- 
-#### Frontend    Angular Angular e RxJS: programação reativa
-- [ ]
-https://www.alura.com.br/curso-online-angular-rxjs-introducao-programacao-reativa
- 
-#### Frontend    Angular Angular: design de componentes com acessibilidade  
-- [ ]
-https://www.alura.com.br/curso-online-angular-introducao-componentes-acessibilidade
- 
-#### Frontend    Angular Angular: avançando no design de componentes com acessibilidade 
-- [ ]
-https://www.alura.com.br/curso-online-angular-avancando-componentes-acessibilidade
- 
-#### Frontend    Angular Angular: testes automatizados com Jasmine e Karma  
-- [ ]
-https://www.alura.com.br/curso-online-angular-testes-automatizados-jasmin-karma
- 
-#### Frontend    Angular Angular: avançando com testes automatizados   
-- [ ]
-https://www.alura.com.br/curso-online-angular-avancando-testes-automatizados
+Currently, I lead the development of the Dimed Portal at Grupo Panvel, an e-commerce
+platform focused on the wholesale market. In this role, I am responsible for the ongoing
+maintenance and innovation of the platform, developing new features, and leading projects. I
+employ Continuous Integration and Continuous Delivery (CI/CD) tools and actively
+participate in code reviews, supporting the technical growth of my team.
+With a solid foundation of 8 years in infrastructure and user support, I transitioned to
+Front-end development in 2019. Since then, I have been applying my comprehensive
+understanding of technology and support to enhance the end-user experience in all
+interfaces I create.
 
-__________
+### Professional Experience
 
-## Courses for add more knowedge in DevOps (I worked in infrastructure, network and security field for at least 5 years of my career, but I want to update myself)
- 
-#### Frontend    Automação e Performance Performance Web I: otimizando o front-end  
-- [x]
-https://www.alura.com.br/curso-online-otimizacao-performance-web
- 
-#### Frontend    Automação e Performance Performance Web II: Critical Path, HTTP/2 e Resource Hints 
-- [ ]
-https://www.alura.com.br/curso-online-performance-http2-critical-path
- 
-#### Frontend    Automação e Performance Webpack: trabalhando com módulos na sua webapp 
-- [ ]
-https://www.alura.com.br/curso-online-webpack-modulos-webapp
- 
-#### Frontend    Automação e Performance HTTP: Entendendo a web por baixo dos panos 
-- [ ]
-https://www.alura.com.br/curso-online-http-fundamentos
- 
-#### Frontend    DevOps  Git e Github: controle e compartilhe seu código
-- [ ]
-https://www.alura.com.br/curso-online-git-github-controle-de-versao
- 
-#### Frontend    DevOps  Git e Github: estratégias de ramificação, Conflitos e Pull Requests
-- [ ]
-https://www.alura.com.br/curso-online-git-github-branching-conflitos-pull-requests
- 
-#### Frontend    DevOps  Integração Contínua: mais qualidade e menos risco no desenvolvimento   
-- [ ]
-https://www.alura.com.br/curso-online-desenvolvimento-software-integracao-continua
- 
-#### Frontend    DevOps  Entrega Contínua: confiabilidade e qualidade na implantação de software
-- [ ]
-https://www.alura.com.br/curso-online-entrega-continua-confiabilidade-qualidade
- 
-#### Frontend    DevOps  Jenkins e Docker: Pipeline de entrega continua 
-- [ ]
-https://www.alura.com.br/curso-online-pipeline-ci-jenkins-docker
- 
-#### Frontend    DevOps  Jenkins: integração contínua   
-- [ ]
-https://www.alura.com.br/curso-online-jenkins-integracao-continua
- 
-#### Frontend    DevOps  Gitlab CI e Docker: Pipeline de entrega contínua   
-- [ ]
-https://www.alura.com.br/curso-online-gitlab-docker-integracao-continua
- 
-#### Frontend    DevOps  Grafana e Telegraf: Monitoramento em tempo real
-- [ ]
-https://www.alura.com.br/curso-online-grafana-telegraf-monitoramento
- 
-#### Frontend    DevOps  The Twelve-Factor App: Metodologia para construção de aplicações robustas  
-- [ ]
-https://www.alura.com.br/curso-online-the-twelve-factor-app
- 
-#### Frontend    DevOps  Fundamentos de Microsserviços: Se aprofundando nos conceitos   
-- [ ]
-https://www.alura.com.br/curso-online-fundamentos-microsservicos-aprofundando-conceitos
+**Grupo Panvel | Forttiori IT (October 2021 - Present) 
+Front-end Developer**
+
+**Dimed Portal**:
+Contributions and Impact: I drove e-commerce growth through the implementation of best
+practices in front-end and back-end development (BFF - Backend For Frontend), resulting in
+improved performance and code optimization.
+Technologies and Tools: Refactored and optimized the existing codebase, integrating
+modern and efficient solutions that enhanced system maintainability and scalability.
+
+**Advertising Space Administrator Portal**:
+Component Development: Designed and implemented reusable and highly responsive
+components, increasing development efficiency and user satisfaction.
+Technological Stack: Utilized Typescript and React to create a rich and interactive user
+interface, following accessibility and responsive design guidelines.
+
+**Budget Governance**:
+Creation and Management: Developed components for an internal control system that
+allowed for more transparent and effective budget management, reducing budget errors.
+Technology Integration: Collaborated closely with the back-end team to integrate features
+developed in Java 11 and Spring Boot, ensuring a cohesive and secure user experience.
+
+### Technical Skills
+
+**Front-end Development**:
+**Advanced Expertise**: Advanced development of user interfaces with HTML5, CSS3
+(including preprocessors like SASS or LESS), and JavaScript ES6+ to create interactive and
+responsive experiences.
+Frameworks and Libraries: Proficiency in React and Next.js, with experience in building
+scalable and SEO-friendly applications, and implementing Server Side Rendering (SSR) and
+Static Site Generation (SSG) techniques.
+
+**Back-end**:
+**Back-end Knowledge**: Skill in building and integrating RESTful APIs and web services, with
+practical experience in Node.js and knowledge of the Java Spring Boot framework, focusing
+on efficient and secure back-end development.
+
+### Tools and Methodologies:
+Version Control and Collaboration: Proficient in using Git for version control, familiar with
+code hosting platforms like GitHub and Bitbucket for team collaboration.
+Continuous Integration and Continuous Delivery (CI/CD): Practical experience in configuring
+and using CI/CD pipelines with Jenkins, Travis CI, or GitHub Actions to automate testing and
+deployments.
+
+**Agile Methodologies**: Effective application of agile practices like Scrum and Kanban to
+optimize workflow and continuously improve the development process.
+
+### Languages:
+
+**Technical and Communicative English**:
+Proven ability to read and write technical documentation in English at an intermediate level and basic conversational skills, with a commitment to improving fluency for effective communication in global environments.
+
+**Education and Professional Development**: 
+
+React JS Training - Alura
+
+React with Typescript Training - Alura
+
+Completed many courses on Alura, which are available on my Linkedin profile.
